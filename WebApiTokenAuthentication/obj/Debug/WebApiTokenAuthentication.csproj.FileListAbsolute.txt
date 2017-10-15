@@ -1,0 +1,110 @@
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\csc.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\vbc.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\VBCSCompiler.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\WebApiTokenAuthentication.dll.config
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\WebApiTokenAuthentication.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\WebApiTokenAuthentication.pdb
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Cors.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Newtonsoft.Json.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Owin.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Net.Http.Formatting.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Cors.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Helpers.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Http.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Http.WebHost.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Mvc.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Razor.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Webpages.Deployment.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Webpages.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Webpages.Razor.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Cors.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Razor.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Webpages.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Webpages.Deployment.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Webpages.Razor.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Helpers.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Mvc.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\Newtonsoft.Json.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Net.Http.Formatting.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Http.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Http.WebHost.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\obj\Debug\WebApiTokenAuthentication.csprojResolveAssemblyReference.cache
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\obj\Debug\WebApiTokenAuthentication.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\obj\Debug\WebApiTokenAuthentication.pdb
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Http.Owin.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\WebApiTokenAuthentication\WebApiTokenAuthentication\bin\System.Web.Http.Owin.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\csc.exe
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\vbc.exe
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\VBCSCompiler.exe
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\WebApiTokenAuthentication.dll.config
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\WebApiTokenAuthentication.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\WebApiTokenAuthentication.pdb
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Cors.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Newtonsoft.Json.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Owin.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Net.Http.Formatting.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Cors.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Helpers.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Http.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Http.Owin.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Http.WebHost.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Mvc.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Razor.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Webpages.Deployment.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Webpages.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Webpages.Razor.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Cors.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Http.Owin.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Razor.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Webpages.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Webpages.Deployment.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Webpages.Razor.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Helpers.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Mvc.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\Newtonsoft.Json.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Net.Http.Formatting.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Http.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\bin\System.Web.Http.WebHost.xml
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\obj\Debug\WebApiTokenAuthentication.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\obj\Debug\WebApiTokenAuthentication.dll
+C:\Gabriel\Blog\WebApiTokenAuthentication_Form_OwinAuth\WebApiTokenAuthentication\obj\Debug\WebApiTokenAuthentication.pdb
